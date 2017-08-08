@@ -1,3 +1,9 @@
+# Custom
+pusher_config.php
+
+# OS X
+.DS_Store
+
 composer.phar
 /vendor/
 

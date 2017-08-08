@@ -1,0 +1,8 @@
+<?php
+
+define('PUSHER_APP_ID',  '');
+define('PUSHER_KEY',     '');
+define('PUSHER_SECRET',  '');
+define('PUSHER_CLUSTER', '');
+
+?>
